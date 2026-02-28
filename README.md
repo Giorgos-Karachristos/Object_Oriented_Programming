@@ -1,11 +1,11 @@
 # Object-Oriented Programming
-This repository contains the solutions to the exercises from the lab Object Oriented Programming
+This repository contains the solutions to the exercises from the lab Object-Oriented Programming
+
 ## Coding Rules:
 These are the rules I follow when implementing the exercises:
 1. I follow the description of each exercise exactly.
 2. All print outputs are written in English.
 3. I use getter methods to access private variables only when additional logic is required (e.g., calculation or validation). If no logic is needed, I access the variable directly within the class.
-
 
 ## Lab 1 Classes, Methods, Objects, Object Arrays
 ### Exercise 1: 
@@ -70,4 +70,3 @@ The program implements a currency conversion package with a selection menu
 The program implements a unit conversion package with a selection menu
 ### Exercise 3:
 Linear search, Binary search, Bubble sort, Selection sort, Insertion sort
-
